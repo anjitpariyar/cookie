@@ -1,0 +1,8 @@
+.cookie{
+  display: block;
+  background-color: #777;
+  color: #fff;
+  font-size: 1rem;
+  padding: 4rem 1rem;
+  display: none;
+}
